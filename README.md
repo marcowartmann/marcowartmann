@@ -2,7 +2,7 @@
 - 👀 I’m interested in music, bass guitar, python, reactjs, arduino
 - 🌱 I’m currently learning python, reactjs, arduino
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me -> wartmann.coding(at)gmail.com
+- 📫 How to reach me -> Mail
 
 <!---
 marcowartmann/marcowartmann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
